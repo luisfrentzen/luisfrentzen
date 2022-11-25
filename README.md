@@ -28,14 +28,16 @@
 <pre style="line-height: 1; width: 100%; height: 100%;">
 </pre>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisfrentzen&repo=sans-battle-clone" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisfrentzen&repo=rose-of-an-ooze-clone" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisfrentzen&repo=gungeon-clone" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisfrentzen&repo=sans-battle-clone" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisfrentzen&repo=rose-of-an-ooze-clone" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisfrentzen&repo=gungeon-clone" />
+  </a>
 </div>
 
